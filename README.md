@@ -12,7 +12,7 @@ Final-year CS student who loves **building full-stack products** and exploring t
 
 <table width="100%">
 <tr>
-<td valign="top">
+<td valign="top" width="60%">
 
 #### 🌟 Core Interests
 
@@ -26,7 +26,7 @@ Final-year CS student who loves **building full-stack products** and exploring t
 - 🤝 Always open to **collaborate & learn**
 
 </td>
-<td valign="middle" align="right">
+<td valign="middle" width="40%" align="center">
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220"/>
 
