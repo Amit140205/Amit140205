@@ -16,20 +16,18 @@ Final-year CS student who loves **building full-stack products** and exploring t
 
 | ![GenAI](https://go-skill-icons.vercel.app/api/icons?i=langchain) | ![FullStack](https://go-skill-icons.vercel.app/api/icons?i=react) |
 | :---------------------------------------------------------------: | :---------------------------------------------------------------: |
-|                        **Gen AI & Agents**                        |                     **Full Stack Dev**                      |
+| **Gen AI & Agents** | **Full Stack Dev** |
 
 #### 🚀 Quick Highlights
 - 🌱 Currently deepening skills in **Agentic AI Systems**
 - 💡 Building products with **LLMs + real-time architectures**
 - 🤝 Always open to **collaborate & learn**
 
-<br/>
+#### 📬 Let's Connect
 
-### 📬 Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit%20Mondal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-mondal-578618218)
-[![GitHub](https://img.shields.io/badge/GitHub-Amit140205-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Amit140205)
-[![Gmail](https://img.shields.io/badge/Gmail-rumaamitmondal340-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rumaamitmondal340@gmail.com)
+| [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/amit-mondal-578618218) | [![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)](https://github.com/Amit140205) | [![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:rumaamitmondal340@gmail.com) |
+| :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
+| **[LinkedIn](https://linkedin.com/in/amit-mondal-578618218)** | **[GitHub](https://github.com/Amit140205)** | **[Gmail](mailto:rumaamitmondal340@gmail.com)** |
 
 <br clear="right"/>
 
