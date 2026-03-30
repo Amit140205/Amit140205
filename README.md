@@ -12,7 +12,7 @@ Final-year CS student who loves **building full-stack products** and exploring t
 
 <table>
 <tr>
-<td valign="top" width="70%" style="padding: 20px 20px 20px 0px">
+<td valign="top" width="70%" style="padding: 20px 20px 20px 20px">
   
 #### 🌟 Core Interests
 
