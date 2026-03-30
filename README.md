@@ -1,80 +1,116 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=%24+whoami;Amit+Mondal;Full+Stack+Developer;Building+the+future%2C+one+commit+at+a+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=%24+whoami;Amit+Mondal;Full+Stack+Dev+%7C+Gen+AI+Builder;Shipping+real-world+products." />
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-mondal-578618218)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Amit140205)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rumaamitmondal340@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Amit140205&color=00ff41&style=flat-square&label=visitors)
+<br/>
+
+<a href="https://linkedin.com/in/amit-mondal-578618218">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/Amit140205">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
+</a>
+<a href="mailto:rumaamitmondal340@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Amit140205&color=00ff41&style=flat-square&label=views"/>
 
 </div>
 
 ---
 
-### `$ cat about.js`
+### 🧠 About
 
-```javascript
+```js
 const amit = {
-  name        : "Amit Mondal",
-  role        : "Full Stack Developer",
-  college     : "Bengal Institute of Technology, Kolkata",
-  graduating  : "June 2026",
-  askMeAbout  : ["web dev", "AI integrations", "real-time apps", "system design"],
-
-  techStack: {
-    frontend  : ["React.js", "Redux Toolkit", "Zustand", "Tailwind CSS"],
-    backend   : ["Node.js", "Express.js"],
-    databases : ["MongoDB", "PostgreSQL"],
-    ai        : ["LangChain", "LangGraph", "Google Gemini API"],
-    tools     : ["Git", "Postman", "Figma", "Socket.IO", "WebRTC"],
-  },
-
-  currentFocus : "Building AI-powered full-stack products that actually ship",
-  funFact      : "I debug better at 2AM than 2PM 🌙",
+  role: "Full Stack Developer + Gen AI Builder",
+  focus: "Real-time apps + AI integrations",
+  edge: "I build products that actually ship 🚀"
 };
 ```
 
 ---
 
-### `$ ls ./projects`
-
-| 🔦 Project | 💡 What it does | 🔗 |
-|-----------|----------------|-----|
-| **Exam Notes AI** | AI platform that generates notes, diagrams & PDFs for exam prep | [Live](https://exam-note-client.onrender.com) · [Repo](https://github.com/Amit140205/Exam-Note) |
-| **DevComm** | Real-time dev chat platform with WebRTC video calls & JWT auth | [Live](https://devcomm-1ju6.onrender.com) · [Repo](https://github.com/Amit140205/DevComm) |
-| **SoundCloud** | Music streaming app with live friend activity & Socket.IO | [Live](https://soundcloud-klgf.onrender.com) · [Repo](https://github.com/Amit140205/SoundCloud) |
-
----
-
-### `$ git stats --global`
+### ⚙️ Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Amit140205&theme=chartreuse-dark&hide_border=true&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues" height="150"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit140205&theme=chartreuse-dark&hide_border=true&layout=compact&langs_count=6" height="150"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Amit140205&theme=chartreuse-dark&hide_border=true" height="150"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,tailwind,js,ts,python" /><br/> <img src="https://skillicons.dev/icons?i=git,figma,redux" />
 
 </div>
 
 ---
 
-### `$ echo $ACHIEVEMENTS`
+### 🤖 Gen AI Focus
 
-```bash
-🥈  2nd Place — Smart India Hackathon (Internal)
-    └─ Built "MyAlumni" — alumni-college engagement platform
+* ⚡ Building with **LangChain + LangGraph**
+* 🧠 LLM-powered workflows (agents, tools, memory)
+* 🎙️ Whisper-based transcription + summarization
+* 🔗 Real-world AI integrations (not just demos)
 
-📈  CGPA 8.81/10 — B.Tech CSE, BIT Kolkata (7th Semester)
-```
+---
+
+### 🚀 Featured Projects
+
+#### 🔹 Exam Notes AI
+
+> AI-powered exam assistant that generates **notes, diagrams & PDFs**
+
+* LLM-driven content generation
+* Smart structured outputs (notes + visuals)
+* Built for real student workflows
+
+👉 [Live](https://exam-note-client.onrender.com) | [Repo](https://github.com/Amit140205/Exam-Note)
+
+---
+
+#### 🔹 DevComm
+
+> Real-time developer communication platform
+
+* 💬 Chat + ⚡ WebRTC video calls
+* 🔐 JWT authentication
+* 🌐 Scalable real-time architecture
+
+👉 [Live](https://devcomm-1ju6.onrender.com) | [Repo](https://github.com/Amit140205/DevComm)
+
+---
+
+#### 🔹 SoundCloud Clone
+
+> Interactive music streaming with social layer
+
+* 🎵 Synchronized playback system
+* 👥 Live friend activity (Socket.IO)
+* ⚡ Real-time event-driven backend
+
+👉 [Live](https://soundcloud-klgf.onrender.com) | [Repo](https://github.com/Amit140205/SoundCloud)
+
+---
+
+### 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Amit140205&theme=chartreuse-dark&hide_border=true&show_icons=true" height="140"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit140205&theme=chartreuse-dark&hide_border=true&layout=compact" height="140"/>
+
+</div>
+
+---
+
+### 🏆 Achievements
+
+* 🥈 Smart India Hackathon (Internal)
+* 📈 CGPA: **8.81/10**
 
 ---
 
 <div align="center">
 
-*"Most bugs disappear after a clean commit and fresh eyes."*
+💡 *"Build. Ship. Iterate."*
 
-**Open to full-time SWE roles — let's build something great.**
+🚀 Open to **SWE | Full Stack | Gen AI Roles**
 
 </div>
