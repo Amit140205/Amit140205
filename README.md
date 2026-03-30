@@ -13,7 +13,6 @@ Final-year CS student who loves **building full-stack products** and exploring t
 <table>
 <tr>
 <td valign="top" width="70%" style="padding: 20px 20px 20px 20px">
-  
 #### 🌟 Core Interests
 
 | ![GenAI](https://go-skill-icons.vercel.app/api/icons?i=langchain) | ![FullStack](https://go-skill-icons.vercel.app/api/icons?i=react) |
@@ -24,8 +23,6 @@ Final-year CS student who loves **building full-stack products** and exploring t
 - 🌱 Currently deepening skills in **Agentic AI Systems**
 - 💡 Building products with **LLMs + real-time architectures**
 - 🤝 Always open to **collaborate & learn**
-&nbsp;
-
 
 </td>
 <td valign="middle" width="30%" align="center" style="padding: 20px 0 20px 20px">
