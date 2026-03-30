@@ -25,6 +25,8 @@ Final-year CS student who loves **building full-stack products** and exploring t
 - 💡 Building products with **LLMs + real-time architectures**
 - 🤝 Always open to **collaborate & learn**
 &nbsp;
+
+
 </td>
 <td valign="middle" width="30%" align="center" style="padding: 20px 0 20px 20px">
 
