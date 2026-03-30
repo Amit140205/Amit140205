@@ -8,13 +8,20 @@
 
 <img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220"/>
 
-### About me
+### 🙋 About Me
 
-I'm a final-year Computer Science student passionate about building full-stack products and exploring the GenAI space — not just as a user, but as someone who ships real things with it.
+Final-year CS student who loves **building full-stack products** and exploring the **Gen AI** space — shipping real things, not just demos.
 
-I enjoy the whole journey: designing clean APIs, wiring up real-time features, and integrating LLMs into workflows that actually make a difference.
+#### 🌟 Core Interests
 
-Currently deepening my skills in agentic AI systems while shipping projects I'm genuinely proud of.
+| ![GenAI](https://go-skill-icons.vercel.app/api/icons?i=langchain) | ![FullStack](https://go-skill-icons.vercel.app/api/icons?i=react) |
+| :---------------------------------------------------------------: | :---------------------------------------------------------------: |
+|                        **Gen AI & Agents**                        |                     **Full Stack Dev**                      |
+
+#### 🚀 Quick Highlights
+- 🌱 Currently deepening skills in **Agentic AI Systems**
+- 💡 Building products with **LLMs + real-time architectures**
+- 🤝 Always open to **collaborate & learn**
 
 <br/>
 
@@ -28,43 +35,24 @@ Currently deepening my skills in agentic AI systems while shipping projects I'm 
 
 ---
 
-### 🛠 What I work with
+### 🛠 Tech Stack
 
-**Languages**
+#### Languages
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,java,js,python,html,css&perline=50)
 
-<img src="https://skillicons.dev/icons?i=js,ts,java,c" />
+#### Libraries & Frameworks
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=react,tailwind,nodejs,express&perline=50)
 
-&nbsp;&nbsp;![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+#### Gen AI
+![GenAI](https://go-skill-icons.vercel.app/api/icons?i=langchain,langchain,langchain&perline=50)
 
-<br/>
+> LangChain &nbsp;·&nbsp; LangGraph &nbsp;·&nbsp; LangSmith
 
-**Frontend**
+#### Databases
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb&perline=50)
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,redux" />
-
-<br/>
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-<br/>
-
-**AI / LLM**
-
-&nbsp;&nbsp;![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)&nbsp;![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)&nbsp;![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-
-<br/>
-
-**Databases**
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
-
-<br/>
-
-**Tools & Platforms**
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma" />
+#### Tools
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=npm,git,postman,figma&perline=50)
 
 ---
 
@@ -74,11 +62,11 @@ Currently deepening my skills in agentic AI systems while shipping projects I'm 
 
 ---
 
-### 🚀 Open to opportunities
+### 🚀 Open to Opportunities
 
 I'm actively looking for **SWE · Full Stack · Gen AI** roles where I can contribute, learn fast, and build things that matter.
 
-📍 Based in Kolkata, India &nbsp;·&nbsp; 📄 [Resume](https://github.com/Amit140205) &nbsp;·&nbsp; 🎓 Graduating **June 2026**
+📍 Kolkata, India &nbsp;·&nbsp; 🎓 Graduating **June 2026**
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer&animation=fadeIn" />
