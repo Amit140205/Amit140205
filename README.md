@@ -20,6 +20,7 @@ Final-year CS student who loves **building full-stack products** and exploring t
 | :---: | :---: |
 | **Gen AI & Agents** | **Full Stack Dev** |
 <br>
+
 #### ⚡ Quick Highlights
 - 🌱 Currently deepening skills in **Agentic AI Systems**
 - 💡 Building products with **LLMs + real-time architectures**
