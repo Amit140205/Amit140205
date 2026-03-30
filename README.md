@@ -29,8 +29,6 @@ Final-year CS student who loves **building full-stack products** and exploring t
 | :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
 | **[LinkedIn](https://linkedin.com/in/amit-mondal-578618218)** | **[GitHub](https://github.com/Amit140205)** | **[Gmail](mailto:rumaamitmondal340@gmail.com)** |
 
-<br clear="right"/>
-
 ---
 
 ### 🛠 Tech Stack
