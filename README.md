@@ -1,116 +1,67 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=700&color=00FF41&center=true&vCenter=true&width=650&lines=%24+whoami;Amit+Mondal;Full+Stack+Dev+%7C+Gen+AI+Builder;Shipping+real-world+products." />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=110&section=header&animation=fadeIn" />
+</div>
 
 <br/>
 
-<a href="https://linkedin.com/in/amit-mondal-578618218">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/Amit140205">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github"/>
-</a>
-<a href="mailto:rumaamitmondal340@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"/>
 
-<img src="https://komarev.com/ghpvc/?username=Amit140205&color=00ff41&style=flat-square&label=views"/>
+# Hi, I'm Amit 👋
 
-</div>
+I'm a **Final-year CS student** and Full Stack Developer who loves building things that feel good to use — from real-time apps to AI-powered tools that actually solve problems.
+
+I care about the details: clean code, thoughtful UX, and shipping products that people remember.
+
+📍 Bengal Institute of Technology, Kolkata · CGPA **8.81 / 10**
+
+<br/><br/><br/>
 
 ---
 
-### 🧠 About
+### 🛠 What I work with
 
-```js
-const amit = {
-  role: "Full Stack Developer + Gen AI Builder",
-  focus: "Real-time apps + AI integrations",
-  edge: "I build products that actually ship 🚀"
-};
-```
+**Languages** — JavaScript · Java · C · SQL  
+**Frontend** — React.js · Redux Toolkit · Tailwind CSS · shadcn/ui · DaisyUI  
+**Backend** — Node.js · Express.js  
+**AI / LLM** — LangChain · LangGraph · Google Gemini API  
+**Databases** — PostgreSQL · MongoDB  
+**Tools** — Git · GitHub · Postman · Figma · Cloudinary · Stripe  
+**CS Fundamentals** — DSA · OOP
+
+<br/>
 
 ---
 
-### ⚙️ Tech Stack
+### 🚀 Things I've built
+
+**[Exam Notes AI](https://exam-note-client.onrender.com)** — AI exam prep platform that generates structured notes, diagrams & downloadable PDFs. Includes Google Auth, credit system & Stripe payments. · [Repo](https://github.com/Amit140205/Exam-Note)
+
+**[DevComm](https://devcomm-1ju6.onrender.com)** — Real-time developer platform with friend discovery, threaded chat & one-click WebRTC video calls. · [Repo](https://github.com/Amit140205/DevComm)
+
+**[SoundCloud Clone](https://soundcloud-klgf.onrender.com)** — Music streaming with live friend activity, instant messaging & an admin dashboard. Powered by Socket.IO & Cloudinary. · [Repo](https://github.com/Amit140205/SoundCloud)
+
+<br/>
+
+---
+
+### 🏆 Achievement
+
+🥈 **2nd Place** — Internal Smart India Hackathon selection round, building *MyAlumni*, a platform to strengthen alumni-college connections.
+
+<br/>
+
+---
+
+### 📬 Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amit%20Mondal-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-mondal-578618218)
+[![GitHub](https://img.shields.io/badge/GitHub-Amit140205-181717?style=flat-square&logo=github)](https://github.com/Amit140205)
+[![Gmail](https://img.shields.io/badge/Email-rumaamitmondal340-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rumaamitmondal340@gmail.com)
+
+<br/>
+
+> *Building things that ship.* 🚀
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,postgres,tailwind,js,ts,python" /><br/> <img src="https://skillicons.dev/icons?i=git,figma,redux" />
-
-</div>
-
----
-
-### 🤖 Gen AI Focus
-
-* ⚡ Building with **LangChain + LangGraph**
-* 🧠 LLM-powered workflows (agents, tools, memory)
-* 🎙️ Whisper-based transcription + summarization
-* 🔗 Real-world AI integrations (not just demos)
-
----
-
-### 🚀 Featured Projects
-
-#### 🔹 Exam Notes AI
-
-> AI-powered exam assistant that generates **notes, diagrams & PDFs**
-
-* LLM-driven content generation
-* Smart structured outputs (notes + visuals)
-* Built for real student workflows
-
-👉 [Live](https://exam-note-client.onrender.com) | [Repo](https://github.com/Amit140205/Exam-Note)
-
----
-
-#### 🔹 DevComm
-
-> Real-time developer communication platform
-
-* 💬 Chat + ⚡ WebRTC video calls
-* 🔐 JWT authentication
-* 🌐 Scalable real-time architecture
-
-👉 [Live](https://devcomm-1ju6.onrender.com) | [Repo](https://github.com/Amit140205/DevComm)
-
----
-
-#### 🔹 SoundCloud Clone
-
-> Interactive music streaming with social layer
-
-* 🎵 Synchronized playback system
-* 👥 Live friend activity (Socket.IO)
-* ⚡ Real-time event-driven backend
-
-👉 [Live](https://soundcloud-klgf.onrender.com) | [Repo](https://github.com/Amit140205/SoundCloud)
-
----
-
-### 📊 Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Amit140205&theme=chartreuse-dark&hide_border=true&show_icons=true" height="140"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amit140205&theme=chartreuse-dark&hide_border=true&layout=compact" height="140"/>
-
-</div>
-
----
-
-### 🏆 Achievements
-
-* 🥈 Smart India Hackathon (Internal)
-* 📈 CGPA: **8.81/10**
-
----
-
-<div align="center">
-
-💡 *"Build. Ship. Iterate."*
-
-🚀 Open to **SWE | Full Stack | Gen AI Roles**
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=80&section=footer&animation=fadeIn" />
 </div>
