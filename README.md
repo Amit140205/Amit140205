@@ -6,9 +6,8 @@
 
 ---
 
-<img align="right" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220"/>
-
-<br/><br/><br/>
+<table><tr>
+<td valign="top" width="65%">
 
 ### 🙋 About Me
 
@@ -20,7 +19,7 @@ Final-year CS student who loves **building full-stack products** and exploring t
 | :---------------------------------------------------------------: | :---------------------------------------------------------------: |
 | **Gen AI & Agents** | **Full Stack Dev** |
 
-#### 🚀 Quick Highlights
+#### ⚡ Quick Highlights
 - 🌱 Currently deepening skills in **Agentic AI Systems**
 - 💡 Building products with **LLMs + real-time architectures**
 - 🤝 Always open to **collaborate & learn**
@@ -30,6 +29,14 @@ Final-year CS student who loves **building full-stack products** and exploring t
 | [![LinkedIn](https://go-skill-icons.vercel.app/api/icons?i=linkedin)](https://linkedin.com/in/amit-mondal-578618218) | [![GitHub](https://go-skill-icons.vercel.app/api/icons?i=github)](https://github.com/Amit140205) | [![Gmail](https://go-skill-icons.vercel.app/api/icons?i=gmail)](mailto:rumaamitmondal340@gmail.com) |
 | :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: |
 | **[LinkedIn](https://linkedin.com/in/amit-mondal-578618218)** | **[GitHub](https://github.com/Amit140205)** | **[Gmail](mailto:rumaamitmondal340@gmail.com)** |
+
+</td>
+<td valign="middle" width="35%" align="center">
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220"/>
+
+</td>
+</tr></table>
 
 ---
 
