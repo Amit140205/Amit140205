@@ -10,13 +10,14 @@
 
 Final-year CS student who loves **building full-stack products** and exploring the **Gen AI** space — shipping real things, not just demos.
 
-<table><tr>
-<td valign="middle" width="60%">
+<table width="100%">
+<tr>
+<td valign="top">
 
 #### 🌟 Core Interests
 
 | ![GenAI](https://go-skill-icons.vercel.app/api/icons?i=langchain) | ![FullStack](https://go-skill-icons.vercel.app/api/icons?i=react) |
-| :---------------------------------------------------------------: | :---------------------------------------------------------------: |
+| :---: | :---: |
 | **Gen AI & Agents** | **Full Stack Dev** |
 
 #### ⚡ Quick Highlights
@@ -25,12 +26,13 @@ Final-year CS student who loves **building full-stack products** and exploring t
 - 🤝 Always open to **collaborate & learn**
 
 </td>
-<td valign="middle" width="40%" align="center">
+<td valign="middle" align="right">
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="220"/>
 
 </td>
-</tr></table>
+</tr>
+</table>
 
 #### 📬 Let's Connect
 
